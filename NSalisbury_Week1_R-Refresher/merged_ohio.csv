@@ -1,0 +1,158 @@
+occupation_code,area_code,area_name,occupation_name,year,mean_wage,emp_count,occupation.factor
+151211,10420,"Akron, OH",Computer Systems Analysts,2019,85360,1440,7
+151211,15940,"Canton-Massillon, OH",Computer Systems Analysts,2019,69990,360,7
+151211,17140,"Cincinnati, OH-KY-IN",Computer Systems Analysts,2019,95020,5290,7
+151211,17460,"Cleveland-Elyria, OH",Computer Systems Analysts,2019,84310,7010,7
+151211,18140,"Columbus, OH",Computer Systems Analysts,2019,90840,7870,7
+151211,19380,"Dayton, OH",Computer Systems Analysts,2019,86930,2360,7
+151211,31900,"Mansfield, OH",Computer Systems Analysts,2019,75500,70,7
+151211,44220,"Springfield, OH",Computer Systems Analysts,2019,86880,290,7
+151211,45780,"Toledo, OH",Computer Systems Analysts,2019,79550,520,7
+151211,49660,"Youngstown-Warren-Boardman, OH-PA",Computer Systems Analysts,2019,78510,290,7
+151211,3900001,West Northwestern Ohio nonmetropolitan area,Computer Systems Analysts,2019,89280,500,7
+151211,3900002,North Northeastern Ohio nonmetropolitan area,Computer Systems Analysts,2019,69340,190,7
+151211,3900003,Eastern Ohio nonmetropolitan area,Computer Systems Analysts,2019,76590,90,7
+151211,3900004,Southern Ohio nonmetropolitan area,Computer Systems Analysts,2019,73810,190,7
+151212,10420,"Akron, OH",Information Security Analysts,2019,82970,180,11
+151212,17140,"Cincinnati, OH-KY-IN",Information Security Analysts,2019,94760,960,11
+151212,17460,"Cleveland-Elyria, OH",Information Security Analysts,2019,97800,990,11
+151212,18140,"Columbus, OH",Information Security Analysts,2019,99260,1390,11
+151212,19380,"Dayton, OH",Information Security Analysts,2019,92660,290,11
+151212,45780,"Toledo, OH",Information Security Analysts,2019,78290,40,11
+151212,49660,"Youngstown-Warren-Boardman, OH-PA",Information Security Analysts,2019,89050,70,11
+151212,3900001,West Northwestern Ohio nonmetropolitan area,Information Security Analysts,2019,103420,30,11
+151221,17460,"Cleveland-Elyria, OH",Computer and Information Research Scientists,2019,107390,50,2
+151221,19380,"Dayton, OH",Computer and Information Research Scientists,2019,120240,200,2
+151231,10420,"Akron, OH",Computer Network Support Specialists,2019,65200,580,4
+151231,15940,"Canton-Massillon, OH",Computer Network Support Specialists,2019,53540,130,4
+151231,17140,"Cincinnati, OH-KY-IN",Computer Network Support Specialists,2019,61290,1520,4
+151231,17460,"Cleveland-Elyria, OH",Computer Network Support Specialists,2019,59020,1570,4
+151231,18140,"Columbus, OH",Computer Network Support Specialists,2019,71040,1700,4
+151231,19380,"Dayton, OH",Computer Network Support Specialists,2019,62620,440,4
+151231,30620,"Lima, OH",Computer Network Support Specialists,2019,58490,40,4
+151231,31900,"Mansfield, OH",Computer Network Support Specialists,2019,69890,120,4
+151231,44220,"Springfield, OH",Computer Network Support Specialists,2019,52550,30,4
+151231,45780,"Toledo, OH",Computer Network Support Specialists,2019,61890,440,4
+151231,49660,"Youngstown-Warren-Boardman, OH-PA",Computer Network Support Specialists,2019,49470,240,4
+151231,3900001,West Northwestern Ohio nonmetropolitan area,Computer Network Support Specialists,2019,62790,260,4
+151231,3900002,North Northeastern Ohio nonmetropolitan area,Computer Network Support Specialists,2019,54170,290,4
+151231,3900003,Eastern Ohio nonmetropolitan area,Computer Network Support Specialists,2019,58800,100,4
+151231,3900004,Southern Ohio nonmetropolitan area,Computer Network Support Specialists,2019,62220,160,4
+151232,10420,"Akron, OH",Computer User Support Specialists,2019,50290,1450,8
+151232,15940,"Canton-Massillon, OH",Computer User Support Specialists,2019,45160,420,8
+151232,17140,"Cincinnati, OH-KY-IN",Computer User Support Specialists,2019,51820,5380,8
+151232,17460,"Cleveland-Elyria, OH",Computer User Support Specialists,2019,50340,4170,8
+151232,18140,"Columbus, OH",Computer User Support Specialists,2019,55680,5720,8
+151232,19380,"Dayton, OH",Computer User Support Specialists,2019,51850,1800,8
+151232,30620,"Lima, OH",Computer User Support Specialists,2019,39630,140,8
+151232,31900,"Mansfield, OH",Computer User Support Specialists,2019,44200,110,8
+151232,45780,"Toledo, OH",Computer User Support Specialists,2019,47220,700,8
+151232,49660,"Youngstown-Warren-Boardman, OH-PA",Computer User Support Specialists,2019,45500,470,8
+151232,3900001,West Northwestern Ohio nonmetropolitan area,Computer User Support Specialists,2019,44260,530,8
+151232,3900002,North Northeastern Ohio nonmetropolitan area,Computer User Support Specialists,2019,42250,630,8
+151232,3900003,Eastern Ohio nonmetropolitan area,Computer User Support Specialists,2019,45600,300,8
+151232,3900004,Southern Ohio nonmetropolitan area,Computer User Support Specialists,2019,44550,340,8
+151241,10420,"Akron, OH",Computer Network Architects,2019,93360,200,3
+151241,15940,"Canton-Massillon, OH",Computer Network Architects,2019,87400,70,3
+151241,17140,"Cincinnati, OH-KY-IN",Computer Network Architects,2019,101340,920,3
+151241,17460,"Cleveland-Elyria, OH",Computer Network Architects,2019,91850,960,3
+151241,18140,"Columbus, OH",Computer Network Architects,2019,107870,1620,3
+151241,19380,"Dayton, OH",Computer Network Architects,2019,98340,310,3
+151241,45780,"Toledo, OH",Computer Network Architects,2019,84000,140,3
+151241,49660,"Youngstown-Warren-Boardman, OH-PA",Computer Network Architects,2019,106680,120,3
+151241,3900002,North Northeastern Ohio nonmetropolitan area,Computer Network Architects,2019,89700,40,3
+151244,10420,"Akron, OH",Network and Computer Systems Administrators,2019,83000,850,12
+151244,15940,"Canton-Massillon, OH",Network and Computer Systems Administrators,2019,74450,240,12
+151244,17140,"Cincinnati, OH-KY-IN",Network and Computer Systems Administrators,2019,81500,3180,12
+151244,17460,"Cleveland-Elyria, OH",Network and Computer Systems Administrators,2019,88290,2210,12
+151244,18140,"Columbus, OH",Network and Computer Systems Administrators,2019,86250,2400,12
+151244,19380,"Dayton, OH",Network and Computer Systems Administrators,2019,75600,930,12
+151244,30620,"Lima, OH",Network and Computer Systems Administrators,2019,84280,70,12
+151244,31900,"Mansfield, OH",Network and Computer Systems Administrators,2019,74940,40,12
+151244,45780,"Toledo, OH",Network and Computer Systems Administrators,2019,77600,390,12
+151244,49660,"Youngstown-Warren-Boardman, OH-PA",Network and Computer Systems Administrators,2019,75140,280,12
+151244,3900001,West Northwestern Ohio nonmetropolitan area,Network and Computer Systems Administrators,2019,79220,420,12
+151244,3900002,North Northeastern Ohio nonmetropolitan area,Network and Computer Systems Administrators,2019,69730,370,12
+151244,3900003,Eastern Ohio nonmetropolitan area,Network and Computer Systems Administrators,2019,82470,180,12
+151244,3900004,Southern Ohio nonmetropolitan area,Network and Computer Systems Administrators,2019,71100,170,12
+151245,10420,"Akron, OH",Database Administrators and Architects,2019,89550,270,10
+151245,15940,"Canton-Massillon, OH",Database Administrators and Architects,2019,79750,30,10
+151245,17140,"Cincinnati, OH-KY-IN",Database Administrators and Architects,2019,89590,780,10
+151245,17460,"Cleveland-Elyria, OH",Database Administrators and Architects,2019,83090,740,10
+151245,18140,"Columbus, OH",Database Administrators and Architects,2019,95360,1050,10
+151245,19380,"Dayton, OH",Database Administrators and Architects,2019,86450,370,10
+151245,44220,"Springfield, OH",Database Administrators and Architects,2019,89000,40,10
+151245,45780,"Toledo, OH",Database Administrators and Architects,2019,81990,120,10
+151245,49660,"Youngstown-Warren-Boardman, OH-PA",Database Administrators and Architects,2019,77150,60,10
+151245,3900001,West Northwestern Ohio nonmetropolitan area,Database Administrators and Architects,2019,92570,90,10
+151245,3900002,North Northeastern Ohio nonmetropolitan area,Database Administrators and Architects,2019,81320,40,10
+151251,10420,"Akron, OH",Computer Programmers,2019,72880,240,6
+151251,15940,"Canton-Massillon, OH",Computer Programmers,2019,66900,110,6
+151251,17140,"Cincinnati, OH-KY-IN",Computer Programmers,2019,86860,1330,6
+151251,17460,"Cleveland-Elyria, OH",Computer Programmers,2019,70850,1240,6
+151251,18140,"Columbus, OH",Computer Programmers,2019,86600,1620,6
+151251,19380,"Dayton, OH",Computer Programmers,2019,75550,390,6
+151251,45780,"Toledo, OH",Computer Programmers,2019,73500,140,6
+151251,49660,"Youngstown-Warren-Boardman, OH-PA",Computer Programmers,2019,63070,30,6
+151251,3900001,West Northwestern Ohio nonmetropolitan area,Computer Programmers,2019,65170,120,6
+151251,3900002,North Northeastern Ohio nonmetropolitan area,Computer Programmers,2019,79010,170,6
+151251,3900003,Eastern Ohio nonmetropolitan area,Computer Programmers,2019,64360,50,6
+151256,10420,"Akron, OH",Software Developers and Software Quality Assurance Analysts and Testers,2019,87820,2570,14
+151256,15940,"Canton-Massillon, OH",Software Developers and Software Quality Assurance Analysts and Testers,2019,88160,510,14
+151256,17140,"Cincinnati, OH-KY-IN",Software Developers and Software Quality Assurance Analysts and Testers,2019,110480,8690,14
+151256,17460,"Cleveland-Elyria, OH",Software Developers and Software Quality Assurance Analysts and Testers,2019,87010,9240,14
+151256,18140,"Columbus, OH",Software Developers and Software Quality Assurance Analysts and Testers,2019,97580,13360,14
+151256,19380,"Dayton, OH",Software Developers and Software Quality Assurance Analysts and Testers,2019,95380,5270,14
+151256,30620,"Lima, OH",Software Developers and Software Quality Assurance Analysts and Testers,2019,84390,80,14
+151256,31900,"Mansfield, OH",Software Developers and Software Quality Assurance Analysts and Testers,2019,115180,80,14
+151256,44220,"Springfield, OH",Software Developers and Software Quality Assurance Analysts and Testers,2019,94040,490,14
+151256,45780,"Toledo, OH",Software Developers and Software Quality Assurance Analysts and Testers,2019,78760,780,14
+151256,49660,"Youngstown-Warren-Boardman, OH-PA",Software Developers and Software Quality Assurance Analysts and Testers,2019,92210,360,14
+151256,3900001,West Northwestern Ohio nonmetropolitan area,Software Developers and Software Quality Assurance Analysts and Testers,2019,85670,420,14
+151256,3900002,North Northeastern Ohio nonmetropolitan area,Software Developers and Software Quality Assurance Analysts and Testers,2019,75140,320,14
+151256,3900003,Eastern Ohio nonmetropolitan area,Software Developers and Software Quality Assurance Analysts and Testers,2019,77510,100,14
+151256,3900004,Southern Ohio nonmetropolitan area,Software Developers and Software Quality Assurance Analysts and Testers,2019,74950,200,14
+151257,10420,"Akron, OH",Web Developers and Digital Interface Designers,2019,60150,260,16
+151257,15940,"Canton-Massillon, OH",Web Developers and Digital Interface Designers,2019,51800,90,16
+151257,17140,"Cincinnati, OH-KY-IN",Web Developers and Digital Interface Designers,2019,65770,1020,16
+151257,17460,"Cleveland-Elyria, OH",Web Developers and Digital Interface Designers,2019,71440,780,16
+151257,18140,"Columbus, OH",Web Developers and Digital Interface Designers,2019,72860,1390,16
+151257,19380,"Dayton, OH",Web Developers and Digital Interface Designers,2019,75190,600,16
+151257,45780,"Toledo, OH",Web Developers and Digital Interface Designers,2019,69380,130,16
+151257,3900001,West Northwestern Ohio nonmetropolitan area,Web Developers and Digital Interface Designers,2019,74170,80,16
+151257,3900002,North Northeastern Ohio nonmetropolitan area,Web Developers and Digital Interface Designers,2019,55280,110,16
+151299,10420,"Akron, OH","Computer Occupations, All Other",2019,76820,690,5
+151299,15940,"Canton-Massillon, OH","Computer Occupations, All Other",2019,53690,210,5
+151299,17140,"Cincinnati, OH-KY-IN","Computer Occupations, All Other",2019,78340,2140,5
+151299,17460,"Cleveland-Elyria, OH","Computer Occupations, All Other",2019,79810,2370,5
+151299,18140,"Columbus, OH","Computer Occupations, All Other",2019,90010,3810,5
+151299,19380,"Dayton, OH","Computer Occupations, All Other",2019,78300,2020,5
+151299,44220,"Springfield, OH","Computer Occupations, All Other",2019,70400,120,5
+151299,45780,"Toledo, OH","Computer Occupations, All Other",2019,69260,410,5
+151299,49660,"Youngstown-Warren-Boardman, OH-PA","Computer Occupations, All Other",2019,70470,160,5
+151299,3900001,West Northwestern Ohio nonmetropolitan area,"Computer Occupations, All Other",2019,64810,200,5
+151299,3900002,North Northeastern Ohio nonmetropolitan area,"Computer Occupations, All Other",2019,53450,150,5
+151299,3900003,Eastern Ohio nonmetropolitan area,"Computer Occupations, All Other",2019,69930,100,5
+151299,3900004,Southern Ohio nonmetropolitan area,"Computer Occupations, All Other",2019,61730,150,5
+152011,17140,"Cincinnati, OH-KY-IN",Actuaries,2019,106120,470,1
+152011,17460,"Cleveland-Elyria, OH",Actuaries,2019,107590,210,1
+152011,18140,"Columbus, OH",Actuaries,2019,98880,560,1
+152011,19380,"Dayton, OH",Actuaries,2019,107400,30,1
+152031,10420,"Akron, OH",Operations Research Analysts,2019,73820,170,13
+152031,17140,"Cincinnati, OH-KY-IN",Operations Research Analysts,2019,86200,1030,13
+152031,17460,"Cleveland-Elyria, OH",Operations Research Analysts,2019,83830,730,13
+152031,18140,"Columbus, OH",Operations Research Analysts,2019,80690,1320,13
+152031,19380,"Dayton, OH",Operations Research Analysts,2019,90660,630,13
+152031,45780,"Toledo, OH",Operations Research Analysts,2019,81660,60,13
+152031,3900001,West Northwestern Ohio nonmetropolitan area,Operations Research Analysts,2019,71940,140,13
+152031,3900002,North Northeastern Ohio nonmetropolitan area,Operations Research Analysts,2019,95110,60,13
+152031,3900004,Southern Ohio nonmetropolitan area,Operations Research Analysts,2019,76810,70,13
+152041,17140,"Cincinnati, OH-KY-IN",Statisticians,2019,92800,430,15
+152041,17460,"Cleveland-Elyria, OH",Statisticians,2019,77720,190,15
+152041,18140,"Columbus, OH",Statisticians,2019,84110,210,15
+152041,19380,"Dayton, OH",Statisticians,2019,68130,50,15
+152098,17140,"Cincinnati, OH-KY-IN","Data Scientists and Mathematical Science Occupations, All Other",2019,79710,370,9
+152098,17460,"Cleveland-Elyria, OH","Data Scientists and Mathematical Science Occupations, All Other",2019,75430,180,9
+152098,18140,"Columbus, OH","Data Scientists and Mathematical Science Occupations, All Other",2019,84140,290,9
+152098,19380,"Dayton, OH","Data Scientists and Mathematical Science Occupations, All Other",2019,88550,240,9
+152098,3900001,West Northwestern Ohio nonmetropolitan area,"Data Scientists and Mathematical Science Occupations, All Other",2019,94750,90,9
